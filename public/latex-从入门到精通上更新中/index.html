@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>LaTeX 从入门到精通（上）（更新中） - 岁月何须溪上记</title><meta name="Description" content="相顾如相识 长歌来采薇"><meta property="og:title" content="LaTeX 从入门到精通（上）（更新中）" />
+<meta property="og:description" content="熟练掌握本系列内容，你就掌握了美国理工科博士生的基本技能之一。技多不压身。本文将手把手教你 LaTeX，从入门到精通。 （创建：5/28/201" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2019-05-29T10:27:00+00:00" />
+<meta property="article:modified_time" content="2019-05-29T10:27:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="LaTeX 从入门到精通（上）（更新中）"/>
+<meta name="twitter:description" content="熟练掌握本系列内容，你就掌握了美国理工科博士生的基本技能之一。技多不压身。本文将手把手教你 LaTeX，从入门到精通。 （创建：5/28/201"/>
+<meta name="application-name" content="岁月何须溪上记">
+<meta name="apple-mobile-web-app-title" content="岁月何须溪上记"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" /><link rel="prev" href="http://example.org/%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A%E5%BC%95%E5%8F%91%E7%9A%84%E7%99%BE%E8%BD%AC%E5%8D%83%E5%9B%9E/" /><link rel="next" href="http://example.org/%E5%A6%82%E4%BD%95%E4%B8%8D%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%8D%9A%E5%A3%AB%E7%94%9F/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "LaTeX 从入门到精通（上）（更新中）",
+        "inLanguage": "zh-CN",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/example.org\/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD\/"
+        },"genre": "posts","wordcount":  1872 ,
+        "url": "http:\/\/example.org\/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD\/","datePublished": "2019-05-29T10:27:00+00:00","dateModified": "2019-05-29T10:27:00+00:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "shojo"
+            },"description": ""
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="岁月何须溪上记">岁月何须溪上记</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> 日志 </a><a class="menu-item" href="/categories/"> 分类 </a><a class="menu-item" href="/tags/"> 标签 </a><a class="menu-item" href="/about.md"> 关于 </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="搜索文章标题或内容..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="岁月何须溪上记">岁月何须溪上记</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="搜索文章标题或内容..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        取消
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">日志</a><a class="menu-item" href="/categories/" title="">分类</a><a class="menu-item" href="/tags/" title="">标签</a><a class="menu-item" href="/about.md" title="">关于</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><article class="page single"><h1 class="single-title animated flipInX">LaTeX 从入门到精通（上）（更新中）</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>shojo</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/%E6%80%9D/"><i class="far fa-folder fa-fw"></i>思</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2019-05-29">2019-05-29</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 1872 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 4 分钟&nbsp;<span id="/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" class="leancloud_visitors" data-flag-title="LaTeX 从入门到精通（上）（更新中）">
+                        <i class="far fa-eye fa-fw"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;次阅读
+                    </span>&nbsp;</div>
+        </div><div class="content" id="content"><p>熟练掌握本系列内容，你就掌握了美国理工科博士生的基本技能之一。技多不压身。本文将手把手教你 LaTeX，从入门到精通。</p>
+<p>（创建：5/28/2019. 写好了提纲。第一次更新：11/26/2019. 拆出了第一部分。第二次更新：12/19/2019 写完上篇。）</p>
+<p>根据内容量，本文将成系列，包含若干篇。你将循序渐进地学会：</p>
+<h1 id="目录">（目录）</h1>
+<p><strong>上篇</strong></p>
+<p><strong>0. LaTeX 是什么，以及 为什么要用 LaTeX</strong></p>
+<p><strong>1. 如何搭建 LaTeX 环境；</strong></p>
+<p><strong>2. 如何用 LaTeX 写公式；</strong></p>
+<p><strong>3. 如何插入图表；</strong></p>
+<p><strong>4. 如何交叉引用；</strong></p>
+<p><strong>5. 如何添加参考文献；</strong></p>
+<p><strong>中篇</strong></p>
+<p><strong>6. 如何用 LaTeX 排版会议/期刊论文；</strong></p>
+<p><strong>7. 如何用 LaTeX 排版博士毕业论文；</strong></p>
+<p><strong>下篇</strong></p>
+<p><strong>8. 如何用 LaTeX 排版幻灯片演示文稿（好拗口，我的意思是 做slides）；</strong></p>
+<p><strong>9. 如何进行骚操作（又名 LaTeX 的高级用法）。</strong></p>
+<p><strong>番外篇</strong></p>
+<p><strong>10. 如何用 LaTeX 做简历。</strong></p>
+<hr>
+<h1 id="0-latex-是什么以及-为什么要用-latex">0. LaTeX 是什么，以及 为什么要用 LaTeX</h1>
+<p>LaTeX 是什么？一句话，是一个文档编辑工具。你可以理解为，它是比 Word 更高级的文档编辑工具。</p>
+<p>为什么要用 LaTeX? 一句话，因为 Word 丑。你看久了学术类文档之后，一眼就能看出 Word 和 LaTeX 的区别。请直观感受一下：</p>
+<p>Word 的排版效果（在网上随手抓了一个文件）：</p>
+<p>这个显然是用 Word 做的</p>
+<p>LaTeX 的排版效果（随手抓了一个文件）：</p>
+<p>这个显然是用 LaTeX 做的</p>
+<p>为什么要用 LaTeX？几句话来说，LaTeX 胜出的地方，不只是公式的排版，还包括格式的统一、图表的排布、交叉引用和参考文献管理的方便、模板丰富、不同形式的文档间编辑的灵活性，等等。</p>
+<ol>
+<li>如何搭建 LaTeX 环境</li>
+</ol>
+<p>本地版：</p>
+<p>Windows 用户：你需要两个东西，一个是环境，一个是编辑器。环境安装 MiKTeX. 下载地址：https://miktex.org/download</p>
+<p>编辑器的选择，有 TeXnicCenter, TeXstudio 等等。我个人最喜欢 TeXstudio. 下载地址点击文字超链接。</p>
+<p>Mac用户：你只需要一个编辑器，可以用前文提到的 TeXstudio 也可以用 MacTex.</p>
+<p>Ubuntu 用户：你只需要一个编辑器，可以用前文提到的 TeXstudio.</p>
+<p>网络版：</p>
+<p>如果你懒得搭本地环境，而且想要有在线同步 / 多人协作，可以用 Overleaf 或者 ShareLaTex. （刚看了下才发现，这两家已经合并了，现在 ShareLatex 是 Overleaf 的一部分了）。</p>
+<p>新建文档</p>
+<p>完成之后就可以打开你的编辑器，建立一个新文档了。LaTeX 的文档扩展名是 .tex，你以后会经常看见它，就像看到 .doc 就知道是 Word 文档一样。</p>
+<p>LaTeX 的每一个 .tex 文档，都有以下几行基础内容：</p>
+<p>\documentclass{article} % 这一行告诉 LaTeX 文档格式，通常是 article.</p>
+<p>\begin{document} % 这一行告诉 LaTeX，文档从这里开始</p>
+<p>Hello, world! % 下文会告诉你，空格打了多少个并不重要</p>
+<p>\end{document} % 这一行告诉 LaTeX，文档在这里结束</p>
+<p>夹在 \begin{document} 和 \end{document} 里的，就是你的正文了。你99%的工作，都是在这里完成。</p>
+<p>LaTeX 的很多模块都是像 \begin{xxx} 和 \end{xxx} 这种形式，后文会详细展开。</p>
+<p>在 \documentclass{article} 之后和 \begin{document} 之前，你可以调用各种排版工具包，你也可以自定义各种格式和各种符号，后面再详细展开。你1%的工作，会在这里展开。</p>
+<p>% 百分号在 LaTeX 里是注释的意思，跟在它后面的所有内容，在换行前都会被注释掉（不会被编译，不显示在编译后的文档里）。</p>
+<p>单词和单词之间的多个空格，在 LaTeX 下等于一个空格。也就是说，即使我打了“Hello, world!”在 &ldquo;Hello,&rdquo; 和 &ldquo;world&rdquo; 中间有很多空格，最后显示都是 &ldquo;Hello, world!&rdquo;</p>
+<p>然后你就可以编译了。编译点 Build 或者 Ctrl+F1 （也有可能是其它快捷键）。然后你就会看见 pdf 和其它一众文档出现在你的当前工作目录。我们暂时只关注 pdf 就好，其它文档下文再详细展开。</p>
+<p>生成的 pdf 文档就是你想要的内容了。最关键的永远是 .tex 文档，这里才是你的战场。</p>
+<p>如果你用 TeXstudio ，当你编译之后，会变成左半边屏幕是编辑页面，右半边屏幕是生成的当前文档的 pdf 预览。类似地，如果你用 Overleaf, 左半边屏幕是编辑，右半边屏幕是 pdf 预览。</p>
+<ol>
+<li>如何用 LaTeX 写公式</li>
+</ol>
+<p>LaTeX 不自动包含所有数学符号的表达式定义，所以如果你要写公式，先在 \documentclass{article} 后，加上下面这行：</p>
+<p>\usepackage{amsmath}</p>
+<p>这样编译的时候，LaTeX 就会在这个包里寻找你想调用的数学符号了。</p>
+<p>LaTeX 的常用数学符号，可以参见这里 List of LaTeX mathematical symbols. 这里列出了各种希腊字母，运算符，逻辑符号，箭头等等。你不需要全部记住，现用现查就可以，用久了就自然记住了。</p>
+<p>LaTeX 的公式是夹在 美元符号 之间的。比如，$ \hat{x} $ 就会显示 戴帽子的 x.</p>
+<p>让一个公式换行居中的最简单方法是，把它放在 [ ] 或者 $$ $$ 中间。例， [ \hat{x} ] 和 $$ \hat{x} $$ 就会换行显示在中间。另一个方法是放在 \begin{equation} 和 \end{equation} 中间。虽然要多打两行字，但是效果是 \begin{equation} 和 \end{equation} 会自动编号公式，方便添加交叉引用。</p>
+<p>\begin{equation} 和 \end{equation} 的功能其实不是很强大，遇到多行公式的时候就不太容易美观，这时候就可以考虑用 align.</p>
+<p>\begin{align}</p>
+<p>\end{align}</p>
+<p>align 里可以用 \ 换行，用 &amp; 设定对齐方式。每一行里 &amp; 后紧跟的内容，就会跟上一行里 &amp; 后紧跟的内容自动对齐。</p>
+<p>align 默认是每一行都会有公式自动编号，这个功能贴心但也不是总有必要，因为不是每一个公式都会被后文引用，而且经常是公式写了之后后文再也不引用了，这种时候就可以用 \begin{align_} 和 \end{align_}, 消去本块里所有的编号。</p>
+<ol>
+<li>如何插入图表  2. 如何交叉引用  3. 如何添加参考文献</li>
+</ol>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>更新于 2019-05-29</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="分享到 Twitter" data-sharer="twitter" data-url="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" data-title="LaTeX 从入门到精通（上）（更新中）" data-via="suiyue2u"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="分享到 Facebook" data-sharer="facebook" data-url="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="分享到 WhatsApp" data-sharer="whatsapp" data-url="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" data-title="LaTeX 从入门到精通（上）（更新中）" data-web><i class="fab fa-whatsapp fa-fw"></i></a><a href="javascript:void(0);" title="分享到 Line" data-sharer="line" data-url="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" data-title="LaTeX 从入门到精通（上）（更新中）"><i data-svg-src="/lib/simple-icons/icons/line.min.svg"></i></a><a href="javascript:void(0);" title="分享到 微博" data-sharer="weibo" data-url="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" data-title="LaTeX 从入门到精通（上）（更新中）"><i class="fab fa-weibo fa-fw"></i></a><a href="javascript:void(0);" title="分享到 Myspace" data-sharer="myspace" data-url="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" data-title="LaTeX 从入门到精通（上）（更新中）" data-description=""><i data-svg-src="/lib/simple-icons/icons/myspace.min.svg"></i></a><a href="javascript:void(0);" title="分享到 Blogger" data-sharer="blogger" data-url="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" data-title="LaTeX 从入门到精通（上）（更新中）" data-description=""><i class="fab fa-blogger fa-fw"></i></a><a href="javascript:void(0);" title="分享到 Evernote" data-sharer="evernote" data-url="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/" data-title="LaTeX 从入门到精通（上）（更新中）"><i class="fab fa-evernote fa-fw"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A%E5%BC%95%E5%8F%91%E7%9A%84%E7%99%BE%E8%BD%AC%E5%8D%83%E5%9B%9E/" class="prev" rel="prev" title="一个工作机会引发的百转千回"><i class="fas fa-angle-left fa-fw"></i>一个工作机会引发的百转千回</a>
+            <a href="/%E5%A6%82%E4%BD%95%E4%B8%8D%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%8D%9A%E5%A3%AB%E7%94%9F/" class="next" rel="next" title="如何（不）成为一名失败的博士生">如何（不）成为一名失败的博士生<i class="fas fa-angle-right fa-fw"></i></a></div>
+</div>
+<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
+            </noscript><div id="gitalk" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://github.com/gitalk/gitalk"></a>Gitalk</a>.
+            </noscript><div id="valine" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://valine.js.org/">Valine</a>.
+            </noscript><div id="fb-root" class="comment"></div>
+            <div
+                class="fb-comments"
+                data-href="http://example.org/latex-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E4%B8%8A%E6%9B%B4%E6%96%B0%E4%B8%AD/"
+                data-width="100%"
+                data-numposts="10"
+            ></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://developers.facebook.com/docs/plugins/comments/"></a>Facebook</a>.
+            </noscript><div id="telegram-comments" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://comments.app/">Telegram Comments</a>.
+            </noscript><div id="commento"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://commento.io/">Commento</a>.
+            </noscript><div id="utterances"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">shojo</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/gitalk/gitalk.min.css"><link rel="stylesheet" href="/lib/valine/valine.min.css"><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"><script type="text/javascript" src="https://.disqus.com/embed.js" defer></script><script type="text/javascript" src="/lib/gitalk/gitalk.min.js"></script><script type="text/javascript" src="/lib/valine/Valine.min.js"></script><script type="text/javascript" src="https://connect.facebook.net/zh_CN/sdk.js#xfbml=1&amp;version=v5.0&amp;appId=&amp;autoLogAppEvents=1" defer></script><script type="text/javascript" src="https://comments.app/js/widget.js?2" defer data-comments-app-website="" data-limit="5" data-colorful="1"></script><script type="text/javascript" src="https://cdn.commento.io/js/commento.js" defer></script><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.stemmer.support.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.zh.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":10},"comment":{"gitalk":{"admin":[""],"clientID":"","clientSecret":"","id":"2019-05-29T10:27:00Z","owner":"","repo":"","title":"LaTeX 从入门到精通（上）（更新中）"},"utterances":{"darkTheme":"github-dark","issueTerm":"pathname","label":"","lightTheme":"github-light","repo":""},"valine":{"appId":"","appKey":"","avatar":"mp","el":"#valine","emojiCDN":"https://cdn.jsdelivr.net/npm/emoji-datasource-google@5.0.1/img/google/64/","emojiMaps":{"100":"1f4af.png","alien":"1f47d.png","anger":"1f4a2.png","angry":"1f620.png","anguished":"1f627.png","astonished":"1f632.png","black_heart":"1f5a4.png","blue_heart":"1f499.png","blush":"1f60a.png","bomb":"1f4a3.png","boom":"1f4a5.png","broken_heart":"1f494.png","brown_heart":"1f90e.png","clown_face":"1f921.png","cold_face":"1f976.png","cold_sweat":"1f630.png","confounded":"1f616.png","confused":"1f615.png","cry":"1f622.png","crying_cat_face":"1f63f.png","cupid":"1f498.png","dash":"1f4a8.png","disappointed":"1f61e.png","disappointed_relieved":"1f625.png","dizzy":"1f4ab.png","dizzy_face":"1f635.png","drooling_face":"1f924.png","exploding_head":"1f92f.png","expressionless":"1f611.png","face_vomiting":"1f92e.png","face_with_cowboy_hat":"1f920.png","face_with_hand_over_mouth":"1f92d.png","face_with_head_bandage":"1f915.png","face_with_monocle":"1f9d0.png","face_with_raised_eyebrow":"1f928.png","face_with_rolling_eyes":"1f644.png","face_with_symbols_on_mouth":"1f92c.png","face_with_thermometer":"1f912.png","fearful":"1f628.png","flushed":"1f633.png","frowning":"1f626.png","ghost":"1f47b.png","gift_heart":"1f49d.png","green_heart":"1f49a.png","grimacing":"1f62c.png","grin":"1f601.png","grinning":"1f600.png","hankey":"1f4a9.png","hear_no_evil":"1f649.png","heart":"2764-fe0f.png","heart_decoration":"1f49f.png","heart_eyes":"1f60d.png","heart_eyes_cat":"1f63b.png","heartbeat":"1f493.png","heartpulse":"1f497.png","heavy_heart_exclamation_mark_ornament":"2763-fe0f.png","hole":"1f573-fe0f.png","hot_face":"1f975.png","hugging_face":"1f917.png","hushed":"1f62f.png","imp":"1f47f.png","innocent":"1f607.png","japanese_goblin":"1f47a.png","japanese_ogre":"1f479.png","joy":"1f602.png","joy_cat":"1f639.png","kiss":"1f48b.png","kissing":"1f617.png","kissing_cat":"1f63d.png","kissing_closed_eyes":"1f61a.png","kissing_heart":"1f618.png","kissing_smiling_eyes":"1f619.png","laughing":"1f606.png","left_speech_bubble":"1f5e8-fe0f.png","love_letter":"1f48c.png","lying_face":"1f925.png","mask":"1f637.png","money_mouth_face":"1f911.png","nauseated_face":"1f922.png","nerd_face":"1f913.png","neutral_face":"1f610.png","no_mouth":"1f636.png","open_mouth":"1f62e.png","orange_heart":"1f9e1.png","partying_face":"1f973.png","pensive":"1f614.png","persevere":"1f623.png","pleading_face":"1f97a.png","pouting_cat":"1f63e.png","purple_heart":"1f49c.png","rage":"1f621.png","relaxed":"263a-fe0f.png","relieved":"1f60c.png","revolving_hearts":"1f49e.png","right_anger_bubble":"1f5ef-fe0f.png","robot_face":"1f916.png","rolling_on_the_floor_laughing":"1f923.png","scream":"1f631.png","scream_cat":"1f640.png","see_no_evil":"1f648.png","shushing_face":"1f92b.png","skull":"1f480.png","skull_and_crossbones":"2620-fe0f.png","sleeping":"1f634.png","sleepy":"1f62a.png","slightly_frowning_face":"1f641.png","slightly_smiling_face":"1f642.png","smile":"1f604.png","smile_cat":"1f638.png","smiley":"1f603.png","smiley_cat":"1f63a.png","smiling_face_with_3_hearts":"1f970.png","smiling_imp":"1f608.png","smirk":"1f60f.png","smirk_cat":"1f63c.png","sneezing_face":"1f927.png","sob":"1f62d.png","space_invader":"1f47e.png","sparkling_heart":"1f496.png","speak_no_evil":"1f64a.png","speech_balloon":"1f4ac.png","star-struck":"1f929.png","stuck_out_tongue":"1f61b.png","stuck_out_tongue_closed_eyes":"1f61d.png","stuck_out_tongue_winking_eye":"1f61c.png","sunglasses":"1f60e.png","sweat":"1f613.png","sweat_drops":"1f4a6.png","sweat_smile":"1f605.png","thinking_face":"1f914.png","thought_balloon":"1f4ad.png","tired_face":"1f62b.png","triumph":"1f624.png","two_hearts":"1f495.png","unamused":"1f612.png","upside_down_face":"1f643.png","weary":"1f629.png","white_frowning_face":"2639-fe0f.png","white_heart":"1f90d.png","wink":"1f609.png","woozy_face":"1f974.png","worried":"1f61f.png","yawning_face":"1f971.png","yellow_heart":"1f49b.png","yum":"1f60b.png","zany_face":"1f92a.png","zipper_mouth_face":"1f910.png","zzz":"1f4a4.png"},"enableQQ":false,"highlight":true,"lang":"zh-cn","pageSize":10,"placeholder":"说点什么吧","recordIP":true,"visitor":true}},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"zh","lunrSegmentitURL":"/lib/lunr/lunr.segmentit.js","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"lunr"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>
