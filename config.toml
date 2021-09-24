@@ -335,7 +335,7 @@ theme = "LoveIt"
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
         # 
-        enable = true
+        enable = false
         owner = ""
         repo = ""
         clientId = ""
@@ -363,14 +363,14 @@ theme = "LoveIt"
         emoji = ""
       # Facebook 评论系统设置
       [params.page.comment.facebook]
-        enable = true
+        enable = false
         width = "100%"
         numPosts = 10
         appId = ""
         languageCode = "zh_CN"
       #  Telegram Comments 评论系统设置
       [params.page.comment.telegram]
-        enable = true
+        enable = false
         siteID = ""
         limit = 5
         height = ""
@@ -383,7 +383,7 @@ theme = "LoveIt"
         enable = false
       #  Utterances 评论系统设置
       [params.page.comment.utterances]
-        enable = true
+        enable = false
         # owner/repo
         repo = ""
         issueTerm = "pathname"
