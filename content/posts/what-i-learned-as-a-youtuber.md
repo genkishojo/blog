@@ -1,7 +1,8 @@
 ---
 title: "【大量干货】 UP成长记（一）：做视频博主一个月，我学会了什么"
 date: 2021-09-23T23:39:25-04:00
-draft: true
+draft: false
+category: - 思
 ---
 
 做B站 UP主 & YouTube 博主 已经两个多月了，发布了10期视频。B站有了272个粉丝，YouTube有了22人订阅。 
