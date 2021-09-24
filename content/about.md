@@ -3,7 +3,7 @@ author: shojo
 date: 2020-02-06 00:53:36+00:00
 draft: false
 title: 关于我
-layout: staticpage
+type: staticpage
 ---
 
 欢迎来到我的博客。
