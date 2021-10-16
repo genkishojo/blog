@@ -35,8 +35,8 @@ type: staticpage
 
 
 {{< friend-css comment="首先引入friend的js" >}}
-{{< friend name="雨临Lewis的博客" url="lewky.cn" logo="https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg" word="不想当写手的码农不是好咸鱼_(xз」∠)_" >}}
-{{< friend name="" url="" logo="" word="" >}}
-{{< friend name="" url="" logo="" word="" >}}
-{{< friend name="" url="" logo="" word="" >}}
+{{< friend-css name="雨临Lewis的博客" url="lewky.cn" logo="https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg" word="不想当写手的码农不是好咸鱼_(xз」∠)_" >}}
+{{< friend-css name="" url="" logo="" word="" >}}
+{{< friend-css name="" url="" logo="" word="" >}}
+{{< friend-css name="" url="" logo="" word="" >}}
 

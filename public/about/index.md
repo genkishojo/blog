@@ -19,7 +19,7 @@
 
 我一开始在百度空间记录，后来在QQ空间、网易博客、人人网（啊，这些上古名字）记录，再后来我注销了这些平台、把日志导入到 wordpress 博客。2017年起，我的重心逐渐转向豆瓣，后来只用豆瓣写日志了。2020年2月5日，豆瓣日记功能暂停使用，于是我重新启用了 wordpress博客。然而因为没有人看 wordpress，所以我继续在豆瓣写日志。2021年8月，实在厌倦了用删减字词的方式来通过豆瓣日记的审查，建博客刻不容缓了。2021年9月，用 Hugo+GitHub+Netlify 建站，10月，买了shojomax.xyz这个域名，将博客部署到自己的域名上啦。
 
-这个博客里存了我从2006年到2017年的所有（黑）日（历）志（史），祝你挖坟愉快！
+这个博客里存了我从2008年到现在的所有（黑）日（历）志（史），祝你挖坟愉快！
 
 **关于我：**
 
@@ -29,9 +29,10 @@
 [YouTube](https://www.youtube.com/channel/UCvQM-HoU-zQ1Z7dmFM65aYA)，是个UP主。
 
 
-{{< friend-css
-name="雨临Lewis的博客"
-url="lewky.cn"
-logo="https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg"
-word="不想当写手的码农不是好咸鱼_(xз」∠)_"
->}}
+{{< friend-css comment="首先引入friend的js" >}}
+{{< friend-css name="雨临Lewis的博客" url="lewky.cn" logo="https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg" word="不想当写手的码农不是好咸鱼_(xз」∠)_" >}}
+{{< friend-css name="" url="" logo="" word="" >}}
+{{< friend-css name="" url="" logo="" word="" >}}
+{{< friend-css name="" url="" logo="" word="" >}}
+
+
