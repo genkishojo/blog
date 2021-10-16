@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>无 - 分类 - 岁月何须溪上记</title>
-        <link>http://example.org/categories/%E6%97%A0/</link>
+        <link>http://shojomax.xyz/categories/%E6%97%A0/</link>
         <description>无 - 分类 - 岁月何须溪上记</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 03 Oct 2021 18:48:49 -0400</lastBuildDate><atom:link href="http://example.org/categories/%E6%97%A0/" rel="self" type="application/rss+xml" /><item>
-    <title>味觉叛变</title>
-    <link>http://example.org/%E5%91%B3%E8%A7%89%E5%8F%9B%E5%8F%98/</link>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 03 Oct 2021 18:48:49 -0400</lastBuildDate><atom:link href="http://shojomax.xyz/categories/%E6%97%A0/" rel="self" type="application/rss+xml" /><item>
+    <title>在美国治疗月经不调</title>
+    <link>http://shojomax.xyz/%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%96%97%E6%9C%88%E7%BB%8F%E4%B8%8D%E8%B0%83/</link>
     <pubDate>Sun, 03 Oct 2021 18:48:49 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E5%91%B3%E8%A7%89%E5%8F%9B%E5%8F%98/</guid>
+    <guid>http://shojomax.xyz/%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%96%97%E6%9C%88%E7%BB%8F%E4%B8%8D%E8%B0%83/</guid>
     <description><![CDATA[<p>我从去年10月初到今年五月，大半年的时间内只有一次月经，是在一月份。虽然以前我的周期就比正常值偏长，但这次相隔有点太远，担心有健康隐患，就去看了医生。</p>
 <p>先是去看了 primary care physician, 也就是全科大夫。描述了情况，排除了怀孕的可能之后，医生怀疑我是甲减或多囊卵巢 (PCOS)。因为甲减或多囊卵巢的症状都包括月经不调。</p>
 <p>针对甲减，要做血检，查促甲状腺激素 (TSH)。</p>
@@ -28,10 +28,10 @@
 ]]></description>
 </item><item>
     <title>2018年终总结</title>
-    <link>http://example.org/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+    <link>http://shojomax.xyz/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
     <pubDate>Sun, 30 Dec 2018 18:24:15 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+    <guid>http://shojomax.xyz/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
     <description><![CDATA[<p>【技能】学会了开车、烤可颂面包、调几种鸡尾酒，入门 Python.</p>
 <p>【学业】顺利过了 prelim 和 proposal. 发表了两篇论文，一篇二作在审。去了我专业最大的会，做了个人史上最好的一次汇报。</p>
 <p>【工作】春季学期 Research Assistant. 暑假和秋季学期 Teaching Assistant. 继续找工作。</p>
@@ -46,10 +46,10 @@
 ]]></description>
 </item><item>
     <title>第一次（正式）见父母，以及，男朋友比我感性</title>
-    <link>http://example.org/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AD%A3%E5%BC%8F%E8%A7%81%E7%88%B6%E6%AF%8D%E4%BB%A5%E5%8F%8A%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%AF%94%E6%88%91%E6%84%9F%E6%80%A7/</link>
+    <link>http://shojomax.xyz/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AD%A3%E5%BC%8F%E8%A7%81%E7%88%B6%E6%AF%8D%E4%BB%A5%E5%8F%8A%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%AF%94%E6%88%91%E6%84%9F%E6%80%A7/</link>
     <pubDate>Sat, 19 May 2018 22:54:49 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AD%A3%E5%BC%8F%E8%A7%81%E7%88%B6%E6%AF%8D%E4%BB%A5%E5%8F%8A%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%AF%94%E6%88%91%E6%84%9F%E6%80%A7/</guid>
+    <guid>http://shojomax.xyz/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AD%A3%E5%BC%8F%E8%A7%81%E7%88%B6%E6%AF%8D%E4%BB%A5%E5%8F%8A%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%AF%94%E6%88%91%E6%84%9F%E6%80%A7/</guid>
     <description><![CDATA[<p><strong>5/17 周四</strong></p>
 <p>去小月家之前我给他妈妈写贺卡。很久没写字，再加上（脚扭了所以）拄拐（所以）胳膊酸痛，所以字迹不太好看。</p>
 <p>以前我和小月吃饭等餐的时候，我用触屏笔和电子屏写过一些字。他当时夸我字好看。这次写贺卡的时候，小月说，你的字怎么没以前好看了呢。</p>
@@ -105,10 +105,10 @@
 ]]></description>
 </item><item>
     <title>第一次吵架</title>
-    <link>http://example.org/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%B5%E6%9E%B6/</link>
+    <link>http://shojomax.xyz/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%B5%E6%9E%B6/</link>
     <pubDate>Sat, 12 May 2018 04:39:26 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%B5%E6%9E%B6/</guid>
+    <guid>http://shojomax.xyz/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%B5%E6%9E%B6/</guid>
     <description><![CDATA[<p>昨天跟小月第一次吵架。他把我弄哭了，我也把他搞哭了。</p>
 <p>事情的经过是，我和小月在意大利餐馆吃饭。愉快地吃完前菜，我们开始吃沙拉。我跟小月说我最快今年年底答辩，明年年初就可以工作了。小月来了句，“但是，很有可能你答辩不通过啊。” 搁平时我就哈哈一笑过去了，可他这么一说我泪就下来了。</p>
 <p>我心想，几个意思？我没能力通过毕业答辩？我找不到工作？我无法独立生活？我需要你照顾我？对我这一点基本的信心都没有，以后怎么办？大难临头各自飞？没有信心怎么撑过以后？未来的考验还多着呢。这段关系真的能走长远？是不是早点结束比较好？然后泪就出来了。</p>
@@ -131,10 +131,10 @@
 ]]></description>
 </item><item>
     <title>曾是穷游的少年</title>
-    <link>http://example.org/%E6%9B%BE%E6%98%AF%E7%A9%B7%E6%B8%B8%E7%9A%84%E5%B0%91%E5%B9%B4/</link>
+    <link>http://shojomax.xyz/%E6%9B%BE%E6%98%AF%E7%A9%B7%E6%B8%B8%E7%9A%84%E5%B0%91%E5%B9%B4/</link>
     <pubDate>Fri, 02 Feb 2018 09:44:35 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E6%9B%BE%E6%98%AF%E7%A9%B7%E6%B8%B8%E7%9A%84%E5%B0%91%E5%B9%B4/</guid>
+    <guid>http://shojomax.xyz/%E6%9B%BE%E6%98%AF%E7%A9%B7%E6%B8%B8%E7%9A%84%E5%B0%91%E5%B9%B4/</guid>
     <description><![CDATA[<p>想了想，也就是在读大学的时候，有心思也有时间在外面晃荡。</p>
 <p>比如和室友结伴坐高铁去丹阳配眼镜，一天来回；比如一个人坐7102次绿皮车，从中华门到南京西站的“小清新之旅”；比如一个人租自行车，夫子庙到南京郊外骑个五个小时来回；比如和朋友街头暴走聊天四五个小时不带停的；比如跨年夜拉帮结伙去鸡鸣寺敲钟。</p>
 <p>读大学的时候真是去了好些地方。</p>
@@ -148,10 +148,10 @@
 ]]></description>
 </item><item>
     <title>欧哥讲八卦</title>
-    <link>http://example.org/%E6%AC%A7%E5%93%A5%E8%AE%B2%E5%85%AB%E5%8D%A6/</link>
+    <link>http://shojomax.xyz/%E6%AC%A7%E5%93%A5%E8%AE%B2%E5%85%AB%E5%8D%A6/</link>
     <pubDate>Wed, 20 Dec 2017 09:19:24 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E6%AC%A7%E5%93%A5%E8%AE%B2%E5%85%AB%E5%8D%A6/</guid>
+    <guid>http://shojomax.xyz/%E6%AC%A7%E5%93%A5%E8%AE%B2%E5%85%AB%E5%8D%A6/</guid>
     <description><![CDATA[<p>今天听欧哥（土耳其小哥哥）讲他土耳其朋友圈儿的八卦。 这是我今年听到的村里第二年度大戏了。</p>
 <p>姑娘A对欧哥表白，欧哥拒绝了。</p>
 <p>姑娘A非常depressed, 于是在这种心情下跟B睡了。</p>
@@ -169,10 +169,10 @@
 ]]></description>
 </item><item>
     <title>遇到194cm的小哥</title>
-    <link>http://example.org/%E9%81%87%E5%88%B0194cm%E7%9A%84%E5%B0%8F%E5%93%A5/</link>
+    <link>http://shojomax.xyz/%E9%81%87%E5%88%B0194cm%E7%9A%84%E5%B0%8F%E5%93%A5/</link>
     <pubDate>Mon, 14 Aug 2017 02:12:03 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E9%81%87%E5%88%B0194cm%E7%9A%84%E5%B0%8F%E5%93%A5/</guid>
+    <guid>http://shojomax.xyz/%E9%81%87%E5%88%B0194cm%E7%9A%84%E5%B0%8F%E5%93%A5/</guid>
     <description><![CDATA[<p>今天早上订了一个去 路易斯湖 的 tour. 没办法，还没有驾照就是不方便，只能跟团了。</p>
 <p>这个团包接送，下午 1:30 出发，提前15分钟也就是 1:15pm 来旅店接我。</p>
 <p>在pick up时间车没来，1:17pm 打电话给客服，客服说没事儿，1:30之前肯定接上你。</p>
@@ -201,10 +201,10 @@
 ]]></description>
 </item><item>
     <title>All work and no play makes Jack a dull boy.</title>
-    <link>http://example.org/all-work-and-no-play-makes-jack-a-dull-boy./</link>
+    <link>http://shojomax.xyz/all-work-and-no-play-makes-jack-a-dull-boy./</link>
     <pubDate>Mon, 12 Jun 2017 14:34:42 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/all-work-and-no-play-makes-jack-a-dull-boy./</guid>
+    <guid>http://shojomax.xyz/all-work-and-no-play-makes-jack-a-dull-boy./</guid>
     <description><![CDATA[<p> </p>
 <p>原本想的是慢慢摸鱼，30岁之前毕业就行了。</p>
 <p>然而计划赶不上变化。老板让我一年到一年半之内毕业&hellip;</p>
@@ -232,10 +232,10 @@
 ]]></description>
 </item><item>
     <title>一枚硬币与两盒食物与变态</title>
-    <link>http://example.org/%E4%B8%80%E6%9E%9A%E7%A1%AC%E5%B8%81%E4%B8%8E%E4%B8%A4%E7%9B%92%E9%A3%9F%E7%89%A9%E4%B8%8E%E5%8F%98%E6%80%81/</link>
+    <link>http://shojomax.xyz/%E4%B8%80%E6%9E%9A%E7%A1%AC%E5%B8%81%E4%B8%8E%E4%B8%A4%E7%9B%92%E9%A3%9F%E7%89%A9%E4%B8%8E%E5%8F%98%E6%80%81/</link>
     <pubDate>Thu, 01 Jun 2017 02:26:29 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E4%B8%80%E6%9E%9A%E7%A1%AC%E5%B8%81%E4%B8%8E%E4%B8%A4%E7%9B%92%E9%A3%9F%E7%89%A9%E4%B8%8E%E5%8F%98%E6%80%81/</guid>
+    <guid>http://shojomax.xyz/%E4%B8%80%E6%9E%9A%E7%A1%AC%E5%B8%81%E4%B8%8E%E4%B8%A4%E7%9B%92%E9%A3%9F%E7%89%A9%E4%B8%8E%E5%8F%98%E6%80%81/</guid>
     <description><![CDATA[<p>整理东西时，从一堆硬币里找出了我千里迢迢从国内带到美国的一枚硬币。</p>
 <p>这是一枚五角钱硬币，荷花图样。硬币上有一个孔。</p>
 <p>拍了正面和反面照，微信发给她。不由得感慨，我已经收着它快九年了。</p>
@@ -262,10 +262,10 @@
 ]]></description>
 </item><item>
     <title>旅途</title>
-    <link>http://example.org/%E6%97%85%E9%80%94/</link>
+    <link>http://shojomax.xyz/%E6%97%85%E9%80%94/</link>
     <pubDate>Fri, 21 Apr 2017 18:50:03 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E6%97%85%E9%80%94/</guid>
+    <guid>http://shojomax.xyz/%E6%97%85%E9%80%94/</guid>
     <description><![CDATA[<p>跟我友龄两年以上的友邻应该知道PS4是我这几年总说要买、但一直没（钱）买的东西。故事最开始是我在大二，也就是2012年，看了《风之旅人》的游戏视频，就被PS3种草，后来PS4出了，就想买PS4。这么多年过去了，总算是了却了心愿，几周前买了PS4，今天买了这游戏。历时五年，从大二到博士三年级，过上了我想要的生活。（手动滑稽）</p>
 <p>首先给你们看一下我对PS4的执念。</p>
 <blockquote>2015-5-1 跟H姐去C堡逛街，H姐喜欢钻戒闪闪发光的东西...我对它们依然无感，H姐说以后当一个人捧着钻戒在你面前的时候你会感动哭的，我心里说才不会呢... 几百刀买个钻戒不如让我买台游戏机。嗷，我的PS4，等我phd了就来买你。</blockquote>

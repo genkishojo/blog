@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>岁月何须溪上记</title>
-        <link>http://example.org/</link>
+        <link>http://shojomax.xyz/</link>
         <description>相顾如相识 长歌来采薇</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 13 Oct 2021 19:21:12 -0400</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://shojomax.xyz/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>味觉叛变</title>
-    <link>http://example.org/%E5%91%B3%E8%A7%89%E5%8F%9B%E5%8F%98/</link>
+    <link>http://shojomax.xyz/%E5%91%B3%E8%A7%89%E5%8F%9B%E5%8F%98/</link>
     <pubDate>Wed, 13 Oct 2021 19:21:12 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E5%91%B3%E8%A7%89%E5%8F%9B%E5%8F%98/</guid>
+    <guid>http://shojomax.xyz/%E5%91%B3%E8%A7%89%E5%8F%9B%E5%8F%98/</guid>
     <description><![CDATA[<p>来美国第一年的寒假，在室友推荐下尝试了 eggnog （蛋奶酒，是鸡蛋、牛奶、朗姆酒、糖、肉豆蔻、肉桂、香草的混合物）。当时感觉这味道太怪了，实在难以接受。</p>
 <p>几年后我就喜欢上了这个味道，现在反而觉得，没有 eggnog 的冬天不完整。</p>
 <p>味觉真是神奇。</p>
@@ -29,11 +29,11 @@
 <p>每个人的味觉基础设置千差万别，个体的味觉也常发生变化。每每想到这里，就觉得奇妙得有点好笑。味觉的每一次叛变，都是啪啪啪打脸，末了说一句，“真香！”</p>
 ]]></description>
 </item><item>
-    <title>味觉叛变</title>
-    <link>http://example.org/%E5%91%B3%E8%A7%89%E5%8F%9B%E5%8F%98/</link>
+    <title>在美国治疗月经不调</title>
+    <link>http://shojomax.xyz/%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%96%97%E6%9C%88%E7%BB%8F%E4%B8%8D%E8%B0%83/</link>
     <pubDate>Sun, 03 Oct 2021 18:48:49 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E5%91%B3%E8%A7%89%E5%8F%9B%E5%8F%98/</guid>
+    <guid>http://shojomax.xyz/%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%96%97%E6%9C%88%E7%BB%8F%E4%B8%8D%E8%B0%83/</guid>
     <description><![CDATA[<p>我从去年10月初到今年五月，大半年的时间内只有一次月经，是在一月份。虽然以前我的周期就比正常值偏长，但这次相隔有点太远，担心有健康隐患，就去看了医生。</p>
 <p>先是去看了 primary care physician, 也就是全科大夫。描述了情况，排除了怀孕的可能之后，医生怀疑我是甲减或多囊卵巢 (PCOS)。因为甲减或多囊卵巢的症状都包括月经不调。</p>
 <p>针对甲减，要做血检，查促甲状腺激素 (TSH)。</p>
@@ -53,10 +53,10 @@
 ]]></description>
 </item><item>
     <title>【大量干货】 UP成长记（一）：做视频博主一个月，我学会了什么</title>
-    <link>http://example.org/%E5%A4%A7%E9%87%8F%E5%B9%B2%E8%B4%A7-up%E6%88%90%E9%95%BF%E8%AE%B0%E4%B8%80%E5%81%9A%E8%A7%86%E9%A2%91%E5%8D%9A%E4%B8%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E6%88%91%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BB%80%E4%B9%88/</link>
+    <link>http://shojomax.xyz/%E5%A4%A7%E9%87%8F%E5%B9%B2%E8%B4%A7-up%E6%88%90%E9%95%BF%E8%AE%B0%E4%B8%80%E5%81%9A%E8%A7%86%E9%A2%91%E5%8D%9A%E4%B8%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E6%88%91%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BB%80%E4%B9%88/</link>
     <pubDate>Thu, 23 Sep 2021 23:39:25 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E5%A4%A7%E9%87%8F%E5%B9%B2%E8%B4%A7-up%E6%88%90%E9%95%BF%E8%AE%B0%E4%B8%80%E5%81%9A%E8%A7%86%E9%A2%91%E5%8D%9A%E4%B8%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E6%88%91%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BB%80%E4%B9%88/</guid>
+    <guid>http://shojomax.xyz/%E5%A4%A7%E9%87%8F%E5%B9%B2%E8%B4%A7-up%E6%88%90%E9%95%BF%E8%AE%B0%E4%B8%80%E5%81%9A%E8%A7%86%E9%A2%91%E5%8D%9A%E4%B8%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E6%88%91%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BB%80%E4%B9%88/</guid>
     <description><![CDATA[<p>做B站 UP主 &amp; YouTube 博主 已经两个多月了，发布了10期视频。B站有了272个粉丝，YouTube有了22人订阅。
 大概从2016年开始就想做B站UP主，也想做 YouTube 频道，只是一直没决定好做什么内容。如今做成了，是机缘巧合。机缘巧合在五月底和朋友聊了天，兴之所至约了六月初一起去山里，福至心灵在山里聊起古诗词，一拍即合决定和朋友共同创建主讲文史的频道。
 我和朋友两人，不会录音、不会剪辑、不会运营——什么都不会，但什么都不怕。因为我们知道，我们什么都可以从零开始学。
@@ -114,10 +114,10 @@ Wiwi Kuan 写的这个程序的使用也非常简单，步骤总结如下：</p>
 ]]></description>
 </item><item>
     <title>2021年找工作总结：进咨询行业做 Data Scientist</title>
-    <link>http://example.org/2021%E5%B9%B4%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E8%BF%9B%E5%92%A8%E8%AF%A2%E8%A1%8C%E4%B8%9A%E5%81%9A-data-scientist/</link>
+    <link>http://shojomax.xyz/2021%E5%B9%B4%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E8%BF%9B%E5%92%A8%E8%AF%A2%E8%A1%8C%E4%B8%9A%E5%81%9A-data-scientist/</link>
     <pubDate>Thu, 01 Jul 2021 21:51:49 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/2021%E5%B9%B4%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E8%BF%9B%E5%92%A8%E8%AF%A2%E8%A1%8C%E4%B8%9A%E5%81%9A-data-scientist/</guid>
+    <guid>http://shojomax.xyz/2021%E5%B9%B4%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E8%BF%9B%E5%92%A8%E8%AF%A2%E8%A1%8C%E4%B8%9A%E5%81%9A-data-scientist/</guid>
     <description><![CDATA[<p>上次找工作是2019年上半年临近毕业的时候，总结写在了<a href="" rel="">这里</a>。时隔快两年，在疫情影响下的2021年重新找工作，最近刚拿到 offer. 找工作心得总结如下。</p>
 <p><strong>本人背景：</strong> 工科背景，学的并非 ECE / CS / Statistics 这样容易找工作的专业；本科之后就没有实习过；约等于没有工作经验；有几个项目经验，是 PhD 时期做的偏理论的研究，没有工业应用，工业界无人在意；没有 master degree in data science / data analytics 或者 Data Science bootcamp 经历。</p>
 <p>背景普通如我，历经艰难险阻，终于在 data scientist 卷得不成样子的2021年，找到了 data scientist 工作。</p>
@@ -161,10 +161,10 @@ Wiwi Kuan 写的这个程序的使用也非常简单，步骤总结如下：</p>
 ]]></description>
 </item><item>
     <title>纸笔与博客</title>
-    <link>http://example.org/%E7%BA%B8%E7%AC%94%E4%B8%8E%E5%8D%9A%E5%AE%A2/</link>
+    <link>http://shojomax.xyz/%E7%BA%B8%E7%AC%94%E4%B8%8E%E5%8D%9A%E5%AE%A2/</link>
     <pubDate>Thu, 31 Dec 2020 10:30:24 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E7%BA%B8%E7%AC%94%E4%B8%8E%E5%8D%9A%E5%AE%A2/</guid>
+    <guid>http://shojomax.xyz/%E7%BA%B8%E7%AC%94%E4%B8%8E%E5%8D%9A%E5%AE%A2/</guid>
     <description><![CDATA[<p>大学毕业以前，我有写日记的习惯。大学毕业以后我就没再用纸笔写日记了。</p>
 <p>日常文字记录全部变成电子版，散落在各大平台。先是QQ空间，后来在人人网和新浪微博，再后来是豆瓣广播。2020年10月16日，搬家到长毛象，只在长毛象嘟嘟日常。</p>
 <p>这一年我常在想，发布自己平时细碎的想法，除了做记录和满足表达欲之外，有没有其他意义。</p>
@@ -183,10 +183,10 @@ Wiwi Kuan 写的这个程序的使用也非常简单，步骤总结如下：</p>
 ]]></description>
 </item><item>
     <title>投入固体肥皂的怀抱——今年用的洗脸皂 / 洗发皂 / 沐浴皂 / 洗手皂</title>
-    <link>http://example.org/%E6%8A%95%E5%85%A5%E5%9B%BA%E4%BD%93%E8%82%A5%E7%9A%82%E7%9A%84%E6%80%80%E6%8A%B1%E4%BB%8A%E5%B9%B4%E7%94%A8%E7%9A%84%E6%B4%97%E8%84%B8%E7%9A%82-/-%E6%B4%97%E5%8F%91%E7%9A%82-/-%E6%B2%90%E6%B5%B4%E7%9A%82-/-%E6%B4%97%E6%89%8B%E7%9A%82/</link>
+    <link>http://shojomax.xyz/%E6%8A%95%E5%85%A5%E5%9B%BA%E4%BD%93%E8%82%A5%E7%9A%82%E7%9A%84%E6%80%80%E6%8A%B1%E4%BB%8A%E5%B9%B4%E7%94%A8%E7%9A%84%E6%B4%97%E8%84%B8%E7%9A%82-/-%E6%B4%97%E5%8F%91%E7%9A%82-/-%E6%B2%90%E6%B5%B4%E7%9A%82-/-%E6%B4%97%E6%89%8B%E7%9A%82/</link>
     <pubDate>Mon, 28 Dec 2020 18:07:37 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E6%8A%95%E5%85%A5%E5%9B%BA%E4%BD%93%E8%82%A5%E7%9A%82%E7%9A%84%E6%80%80%E6%8A%B1%E4%BB%8A%E5%B9%B4%E7%94%A8%E7%9A%84%E6%B4%97%E8%84%B8%E7%9A%82-/-%E6%B4%97%E5%8F%91%E7%9A%82-/-%E6%B2%90%E6%B5%B4%E7%9A%82-/-%E6%B4%97%E6%89%8B%E7%9A%82/</guid>
+    <guid>http://shojomax.xyz/%E6%8A%95%E5%85%A5%E5%9B%BA%E4%BD%93%E8%82%A5%E7%9A%82%E7%9A%84%E6%80%80%E6%8A%B1%E4%BB%8A%E5%B9%B4%E7%94%A8%E7%9A%84%E6%B4%97%E8%84%B8%E7%9A%82-/-%E6%B4%97%E5%8F%91%E7%9A%82-/-%E6%B2%90%E6%B5%B4%E7%9A%82-/-%E6%B4%97%E6%89%8B%E7%9A%82/</guid>
     <description><![CDATA[<p>当你用完一瓶 洗面奶 / 洗发水 / 沐浴露 / 洗手液 之后，你会把它们的瓶子洗净回收吗？你知道这些瓶子的哪一部分是可回收、哪一部分是不可回收的吗？</p>
 <p>自从认识到自己日常生活中产生了很多 回收率低甚至不可回收的 塑料垃圾后，我就逐步把清洁用品换成了无塑料包装的产品，消除了回收这部分商品塑料包装的烦恼，更从根源上消除清洁用品中的塑料垃圾的产生。回收塑料垃圾，这固然好；消除塑料垃圾的产生，这更好。</p>
 <p>我坚定地投向了固体肥皂（bar soap）的怀抱，是在知道了这项事实之后：大部分清洁用品的配料表的第一项是水（也就是说，配料的大部分都是水）、而水这项配料就在你的浴室里打开水龙头即可获得。商品的运输成本中很大的一部分是用来运输配料表里的水，如果只运输有效成分，就可以大大降低运输成本。更何况一块固体皂的使用寿命等于几瓶液体皂，而单个固体皂本身的运输成本就已经远低于单瓶液体皂的运输成本了。</p>
@@ -220,10 +220,10 @@ Ethique Bar Minimum Unscented solid shampoo，图源：官方网站</p>
 ]]></description>
 </item><item>
     <title>零基础学大提琴一年：课程笔记</title>
-    <link>http://example.org/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E5%A4%A7%E6%8F%90%E7%90%B4%E4%B8%80%E5%B9%B4%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</link>
+    <link>http://shojomax.xyz/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E5%A4%A7%E6%8F%90%E7%90%B4%E4%B8%80%E5%B9%B4%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</link>
     <pubDate>Mon, 07 Dec 2020 18:10:33 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E5%A4%A7%E6%8F%90%E7%90%B4%E4%B8%80%E5%B9%B4%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</guid>
+    <guid>http://shojomax.xyz/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E5%A4%A7%E6%8F%90%E7%90%B4%E4%B8%80%E5%B9%B4%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</guid>
     <description><![CDATA[<p>文中提到的教材详情见文末。</p>
 <p>12/17/2019 第1节课，试听课，学了琴的结构、持琴姿势、右手握弓姿势、左手姿势，拨奏，拉了空弦，学了一点儿五线谱的基本概念，老师帮我贴了两条胶带定位左手的按弦位置，拉了《铃木大提琴》第一册的第一首《小星星》。</p>
 <p>1/11/2020 第2节课，学拉《铃木大提琴》第一册的曲子，学C大调音阶。</p>
@@ -260,10 +260,10 @@ Ethique Bar Minimum Unscented solid shampoo，图源：官方网站</p>
 ]]></description>
 </item><item>
     <title>零基础学大提琴一年：回顾与总结</title>
-    <link>http://example.org/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E5%A4%A7%E6%8F%90%E7%90%B4%E4%B8%80%E5%B9%B4%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%BB%E7%BB%93/</link>
+    <link>http://shojomax.xyz/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E5%A4%A7%E6%8F%90%E7%90%B4%E4%B8%80%E5%B9%B4%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%BB%E7%BB%93/</link>
     <pubDate>Mon, 07 Dec 2020 18:02:06 -0400</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E5%A4%A7%E6%8F%90%E7%90%B4%E4%B8%80%E5%B9%B4%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%BB%E7%BB%93/</guid>
+    <guid>http://shojomax.xyz/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E5%A4%A7%E6%8F%90%E7%90%B4%E4%B8%80%E5%B9%B4%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%BB%E7%BB%93/</guid>
     <description><![CDATA[<p>一、前情提要</p>
 <p>在2019年的最后一个季度，我下定决心开始学大提琴。心路历程写在这里：</p>
 <pre><code>我决定学大提琴。我想学大提琴由来已久。迟迟不学，是因为在等，在等自己工作稳定，在等自己有闲心有闲钱。而抑郁让我真正明白：不要等。等自己心情好？不存在的。等自己状态绝佳？不存在的。“等”就等于“没有”，等是等不到未来的。道理人人都懂，然而人人都在等，并且给自己的“等”填满理由。
@@ -324,10 +324,10 @@ Rudolph Doetsch 701</p>
 ]]></description>
 </item><item>
     <title>为什么我后悔买车</title>
-    <link>http://example.org/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%90%8E%E6%82%94%E4%B9%B0%E8%BD%A6/</link>
+    <link>http://shojomax.xyz/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%90%8E%E6%82%94%E4%B9%B0%E8%BD%A6/</link>
     <pubDate>Wed, 20 May 2020 15:38:46 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%90%8E%E6%82%94%E4%B9%B0%E8%BD%A6/</guid>
+    <guid>http://shojomax.xyz/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%90%8E%E6%82%94%E4%B9%B0%E8%BD%A6/</guid>
     <description><![CDATA[<p>买车前，买车后，算一笔有车的账。</p>
 <p>来美国之前，我就听说，“在美国，没有车寸步难行”，尤其是对在大农村读书的留学生而言。</p>
 <p>来美国之后，周围的同学们逐渐都买了车，彻底结束了等公交车、夏日顶着烈日或暴雨、严冬迎着寒风或踏着积雪去超市买菜的日子。</p>
@@ -359,10 +359,10 @@ Rudolph Doetsch 701</p>
 ]]></description>
 </item><item>
     <title>吵过的架｜要不要随夫姓</title>
-    <link>http://example.org/%E5%90%B5%E8%BF%87%E7%9A%84%E6%9E%B6%E8%A6%81%E4%B8%8D%E8%A6%81%E9%9A%8F%E5%A4%AB%E5%A7%93/</link>
+    <link>http://shojomax.xyz/%E5%90%B5%E8%BF%87%E7%9A%84%E6%9E%B6%E8%A6%81%E4%B8%8D%E8%A6%81%E9%9A%8F%E5%A4%AB%E5%A7%93/</link>
     <pubDate>Thu, 14 May 2020 03:42:04 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/%E5%90%B5%E8%BF%87%E7%9A%84%E6%9E%B6%E8%A6%81%E4%B8%8D%E8%A6%81%E9%9A%8F%E5%A4%AB%E5%A7%93/</guid>
+    <guid>http://shojomax.xyz/%E5%90%B5%E8%BF%87%E7%9A%84%E6%9E%B6%E8%A6%81%E4%B8%8D%E8%A6%81%E9%9A%8F%E5%A4%AB%E5%A7%93/</guid>
     <description><![CDATA[<p>和 Hubby 吵过的架，一则。</p>
 <p>和 Hubby 领证前，我们就讨论过我要不要改姓，随他姓。领证的时候改姓是最方便的，如果领证的时候不改姓、以后想改的话，就要跑更多的部门走更多的手续。</p>
 <p> </p>
