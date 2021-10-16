@@ -34,8 +34,7 @@ type: staticpage
 [YouTube](https://www.youtube.com/channel/UCvQM-HoU-zQ1Z7dmFM65aYA)，是个UP主。
 
 
-{{< friend-css >}}
-{{< friend
+{{< friend-css
 name="雨临Lewis的博客"
 url="lewky.cn"
 logo="https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg"
