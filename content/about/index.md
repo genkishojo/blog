@@ -1,5 +1,9 @@
-# 关于
-
+---
+author: shojo
+date: 2020-02-06 00:53:36+00:00
+draft: false
+title: 关于
+---
 
 欢迎来到我的博客。
 
@@ -21,7 +25,6 @@
 
 影迷，爱看书，宅，爱动画有关的一切，喜欢玩游戏，近期爱好是拉大提琴。2021年和朋友一起开了频道，[哔哩哔哩](https://space.bilibili.com/2017360876)
 [YouTube](https://www.youtube.com/channel/UCvQM-HoU-zQ1Z7dmFM65aYA)，成为一个UP主。
-
 
 
 
