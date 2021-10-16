@@ -3,18 +3,11 @@ author: shojo
 date: 2020-02-06 00:53:36+00:00
 draft: false
 title: 关于我
-type: staticpage
 ---
 
 欢迎来到我的博客。
 
-博客的副标题缘起于
-
-
-
-<blockquote>相顾无相识，长歌怀采薇。</blockquote>
-
-
+博客的副标题缘起于<blockquote>相顾无相识，长歌怀采薇。</blockquote>
 
 这太过悲伤。所以我改了两个字的声母，这两句诗就变成了：相顾**如**相识，长歌**来**采薇。
 只需见一面我们就彼此认识了。一起来唱着歌玩耍吧。
@@ -34,8 +27,8 @@ type: staticpage
 [YouTube](https://www.youtube.com/channel/UCvQM-HoU-zQ1Z7dmFM65aYA)，是个UP主。
 
 
-{{< friend-css comment="首先引入friend的js" >}}
-{{< friend-css name="雨临Lewis的博客" url="lewky.cn" logo="https://cdn.jsdelivr.net/gh/lewky/lewky.github.io@master/images/avatar.jpg" word="不想当写手的码农不是好咸鱼_(xз」∠)_" >}}
+{{< friend-css>}}
+{{< friend-css name="测试" url="shojomax.xyz" logo="https://img9.doubanio.com/icon/ul48990593-26.jpg" word="test" >}}
 {{< friend-css name="" url="" logo="" word="" >}}
 {{< friend-css name="" url="" logo="" word="" >}}
 {{< friend-css name="" url="" logo="" word="" >}}
