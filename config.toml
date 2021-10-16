@@ -590,13 +590,5 @@ theme = "LoveIt"
     title = ""
     weight = 3
 
-  [[menu.main]]
-    identifier = "about.md"
-    pre = ""
-    post = ""
-    name = "关于"
-    url = "about.md"
-    title = ""
-    weight = 4
 
 
